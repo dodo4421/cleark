@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "장재원딜 유튜브",
+    "description": "장재원딜 유튜브 채널",
+    "link": "https://www.youtube.com/@user-fm4ww5yx7h",
+    "채널": "Beginner"
+  },
+  {
+    "id": 2,
+    "title": "장재원딜의 카이사 강의",
+    "description": "맛깔나는 카이사 강의",
+    "link": "https://www.youtube.com/watch?v=xCBL0g3vJ4I",
+    "level": "Intermediate"
+  },
+  {
+    "id": 3,
+    "title": "장재원딜의 닐라 강의",
+    "description": "장재원딜의 신박한 닐라 강의",
+    "link": "https://www.youtube.com/watch?v=P-v1Of1665M&t=5s",
+    "level": "All Levels"
+  },
+  {
+    "id": 4,
+    "title": "장재원딜의 미스 포츈 강의",
+    "description": "장재원딜의 멋있는 미스 포츈 강의",
+    "link": "https://www.traversymedia.com/next-js-dev-to-deployment",
+    "level": "Intermediate"
+  },
+  {
+    "id": 5,
+    "title": "장재원딜의 이즈리얼 강의",
+    "description": "스킬을 다 맞추는 장재원딜의 이즈리얼 강의",
+    "link": "https://www.youtube.com/watch?v=HUZU3BUPPQY&t=971s",
+    "level": "Beginner"
+  },
+  {
+    "id": 6,
+    "title": "장재원딜의 진 강의",
+    "description": "장재원딜의 크라켄을 활용한 진 강의",
+    "link": "https://www.youtube.com/watch?v=0p2dpQYYuf0&t=532s",
+    "level": "Intermediate"
+  }
+]
